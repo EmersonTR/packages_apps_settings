@@ -3723,4 +3723,10 @@
     <string name="new_device_suggestion_summary" product="tablet" msgid="393751455688210956">"Faça um tour pelo seu novo tablet"</string>
     <string name="new_device_suggestion_summary" product="device" msgid="2939870049868336652">"Faça um tour pelo seu novo dispositivo"</string>
     <string name="disabled_low_ram_device" msgid="3751578499721173344">"Este recurso não está disponível neste dispositivo"</string>
+    
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_data">Dados móveis</string>
+    <string name="data_usage_app_restrict_data_summary">Ativar o uso de dados móveis</string>
+    <string name="data_usage_app_restrict_wifi">Rede Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Ativar o uso da rede Wi\u2011Fi</string>
 </resources>
